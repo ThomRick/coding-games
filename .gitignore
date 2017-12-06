@@ -1,4 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
 
+puzzles/classic/easy/mime-type/node_modules/
+
 puzzles/community/one-way-city/node_modules/
