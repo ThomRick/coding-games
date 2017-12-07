@@ -1,0 +1,12 @@
+{
+  "name": "temperatures",
+  "version": "1.0.0",
+  "description": "Coding Games Temperatures challenge solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThomRick",
+  "license": "ISC",
+  "devDependencies": {}
+}
