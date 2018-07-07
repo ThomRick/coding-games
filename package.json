@@ -1,0 +1,9 @@
+{
+  "name": "coding-game-solutions",
+  "version": "0.0.0",
+  "description": "A Coding Game solutions in Javascript",
+  "scripts": {},
+  "author": "ThomRick",
+  "license": "ISC",
+  "devDependencies": {}
+}

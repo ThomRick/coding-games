@@ -1,11 +1,11 @@
 {
-  "name": "chuck-norris",
+  "name": "skynet-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Coding Games Skynet - Episode 1 challenge solution",
   "main": "index.js",
   "scripts": {
     "test": "mocha src/ --recursive",
-    "test:watch": "nodemon --watch src -e js --exec \"npm test -s\""
+    "test:watch": "nodemon src -e js --exec \"npm test -s\""
   },
   "author": "ThomRick",
   "license": "ISC",
